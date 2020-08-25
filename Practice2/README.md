@@ -1,4 +1,4 @@
-# Practice 2. Developiong the PCB (PCB)
+# Practice 2. Developiong the PCB (Layout)
 
 ## Objectives
 
