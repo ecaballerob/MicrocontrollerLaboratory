@@ -1,8 +1,8 @@
-# Practice 1. Developiong the PCB (Schematic)
+# Practice 2. Developiong the PCB (PCB)
 
 ## Objectives
 
-The student will make the schematic design of a minimum card system, which he/she will work with throughout the semester. The minimum system contains following elements: potentiometer and thermistor ICs, serial port, power connector, LCD , push buttons,  LEDs, and keyboard connections. The students will use the design software ‘Kicad’ for the entire design (schematic and layout.)
+Develop the connection diagrams (layout) from the schematic diagram.
 
 ## Introduction
 
