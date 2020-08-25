@@ -66,7 +66,7 @@ menu  of **‘Setup→Design Rules...’**. On   it,   some   final   design cha
 11.Check in the ‘Layers Manager’ window (located at the right  part  of  your  screen) that all  the needed  boxes  are
 checked, as shown:
 
-![Layers manager](.img/layers_manager.png)
+![Layers manager](./img/layers_manager.png)
 
 11.Check in the ‘Layers Manager’ window (located at the right  part  of  your  screen) that all  the needed  boxes  are checke
 
@@ -90,7 +90,7 @@ For this practice, modify only the Conclusion section. Commit an push the change
 upload the link on Canvas.
 
 ### File uploads
-Commit and push the files with extensions .pro and kicad_pcb created once you completed all the steps of the document in the repository.
+Commit and push the files with extensions .pro and .kicad_pcb created once you completed all the steps of the document in the repository.
 
 ### Demonstration
 Screenshot the image of the complete schematic and upload it at the repository.
