@@ -1,4 +1,4 @@
-# Practice 333. Developiong the PCB (Layout)
+# Practice 3. Developiong the PCB (Layout)
 
 ## Objectives
 
