@@ -1,4 +1,4 @@
-# Practice 5. Introduction to using MPLAB X IDE
+# Practice 6. Parallel Ports (GPIOs)
 
 
 ## Objectives
