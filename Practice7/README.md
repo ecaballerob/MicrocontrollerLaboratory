@@ -2,7 +2,12 @@
 
 
 ## Objectives
-he   student   will   become   familiar   with   the   basic instructions for configure and operate the Microcontroller input/output ports.
+Knowing the functions and interactions of the pull-up resistors and input/output port. Acquiring data from a keypad by the sweeping method.
+At the end of this practice, the student will be capable of: 
+
+- Identify and know the importance of the pull-up/pull-down settings in a microcontroller.
+- Understand the concept of sweeping for data acquisition.
+
 
 ## Introduction
 
