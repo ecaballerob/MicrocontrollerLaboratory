@@ -83,6 +83,8 @@ Remember to follow the programming structure:
     * When a button is pressed for the first time, the number/letter value should be showed in the least significant four LEDs.
     *	When a new button is pressed, the last number should be shifted out to the most significant four LEDs, and the new number should be showed in the least significant LEDs, as shown in Fig. 5.
 
+![Figure 5](./img/fig5.png)
+
 ### C.	Keypad: Hardware implementation.
 9.	Connect PortB of PIC18 to the appropiate pinhead of your “minimum card system,” then connect the 4x4 matrix keypad to the opposite pinhead, and finally connect PortD of the microcontroller to the LEDs set. Your connection must look like the one shown in Fig. 6 at the end of this document.
 
