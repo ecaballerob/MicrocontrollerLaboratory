@@ -1,4 +1,4 @@
-# Practice 7. Parallel Ports (GPIOs)
+# Practice 7. Keypad 4x4 (GPIOs)
 
 
 ## Objectives
