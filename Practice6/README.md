@@ -2,7 +2,7 @@
 
 
 ## Objectives
-he   student   will   become   familiar   with   the   basic instructions for configure and operate the Microcontroller input/output ports.
+he   student   will   become   familiar   with   the   basic instructions to configure and operate the Microcontroller input/output ports.
 
 ## Introduction
 
