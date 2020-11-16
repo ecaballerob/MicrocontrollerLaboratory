@@ -69,7 +69,7 @@ Remember to follow the programming structure:
     - It is not allowed to use module libraries.
     - Configure the ADC module to be able to perform the analog-digital conversion of the voltage supplied by the potentiometer. It is recommended to configure the AN0 as the input channel.
     - The ADC conversion will be responsible for determining the duty cycle of the PWM signal. The 10-bit ADC conversion value must be passed directly to the duty cycle registers.•The PWM module must work on a specific frequency that let it to obtain a periodof 4 ms. It is recommended to use the CCP1 module to generate the signal.The formula to obtain the register value needed to reach the desired period must be implemented in the software, e.g:
-``
+```c
 pwmInit() {
     ...
     PR2 = pwmPeriod( 0.004 );
@@ -78,8 +78,9 @@ pwmInit() {
 
 char pwmPeriod( float period ) {
     ... //implement the formula 
-    return ... //to register value}
-``
+    return ... //to register value
+}
+```
    - Use the oscilloscope to monitor the PWM signal.
    - If  the dutycycleratiovalue  exceeds  75%,  an  LED should light up and remain in that state. If it is below that percentage it should be kept off. As same as the period, the  formula to calculate the duty cycle ratio must be implemented in the software. 
    . The program must work continuously. Each time the potentiometer is varied, the duty cycle should change.
@@ -88,7 +89,7 @@ char pwmPeriod( float period ) {
 
 10. First, to vary the analog signal use the potentiometer of the curiosity board. This potentiometer is internally connected to  the  AN0  input  channel. Then,  tovisualize  the  pwm signal connect the oscilloscope probe to the CCP1 pin of the PIC18F45K50 mcu. And finally, you can use any LED of the curiosity board to keep track of the duty cycle ratio.See Fig. 3 for hardware connections.
 
-![Figure 2](./img/fig3.png)
+![Figure 2](./img/fig.png)
 
 ### Report
 For this practice, add to the Result Section the following:
