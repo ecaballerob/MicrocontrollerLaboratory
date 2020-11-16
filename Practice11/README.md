@@ -89,7 +89,7 @@ char pwmPeriod( float period ) {
 
 10. First, to vary the analog signal use the potentiometer of the curiosity board. This potentiometer is internally connected to  the  AN0  input  channel. Then,  tovisualize  the  pwm signal connect the oscilloscope probe to the CCP1 pin of the PIC18F45K50 mcu. And finally, you can use any LED of the curiosity board to keep track of the duty cycle ratio.See Fig. 3 for hardware connections.
 
-![Figure 2](./img/fig.png)
+![Figure 3](./img/fig3.png)
 
 ### Report
 For this practice, add to the Result Section the following:
