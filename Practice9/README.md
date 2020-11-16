@@ -52,7 +52,7 @@ Utility → Output Setup → High Z → DONE.
 
 ### Time for roll over
 
-![formula](https://render.githubusercontent.com/render/math?math=2^{TimerMode} TMRx * Tcy * Prescaler)
+![formula](./img/formula.png)
 
 Where:
     - TMRx: timer counter register.
