@@ -127,11 +127,11 @@ Remember to follow the programming structure:
 
 ![Figure 7](./img/fig7.png)
 
-    ii. When the user press the ‘*’ symbol from the keypad, the display clears the operation and write the result from the performed calculation, as shown in Fig. 8.
+ii. When the user press the ‘*’ symbol from the keypad, the display clears the operation and write the result from the performed calculation, as shown in Fig. 8.
 
 ![Figure 8](./img/fig8.png)
 
-    iii. In order to perform a new calculation, the user must press the ‘#’ symbol from the keypad. This action must clear the display an return the cursor to home. 
+iii. In order to perform a new calculation, the user must press the ‘#’ symbol from the keypad. This action must clear the display an return the cursor to home. 
     iv. Then, a new calculation can be entered. 
     v. It is sufficient if the range of the operands is 0 to 9. Also, the result can only be positive and integer number.
     vi. Table III, shows the mapping of the keypad symbols with the calculator implementation.

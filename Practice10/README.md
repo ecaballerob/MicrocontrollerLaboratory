@@ -137,9 +137,9 @@ Remember to follow the programming structure:
 
 ### Traffic light system: Hardware implementation.
 
-    4. Connect the push button to RB2 pin. The clean signal (without debounce) will be output from the RB1 pin, so the RB1 must be connected to the RB0 pin to generate the INT0 interrupt.
+4. Connect the push button to RB2 pin. The clean signal (without debounce) will be output from the RB1 pin, so the RB1 must be connected to the RB0 pin to generate the INT0 interrupt.
 
-    5. To simulate the traffic lights, connect the PORTD to the 8 LEDs of your ‘minimum card system’ as follows: RD7 and RD3 for pedestrian lights; RD6-green, RD5-yellow,RD4-red lights of North to South traffic; and RD2-green, RD1-yellow, RD0-red lights of West to East traffic.
+5. To simulate the traffic lights, connect the PORTD to the 8 LEDs of your ‘minimum card system’ as follows: RD7 and RD3 for pedestrian lights; RD6-green, RD5-yellow,RD4-red lights of North to South traffic; and RD2-green, RD1-yellow, RD0-red lights of West to East traffic.
 
 
 ### Report
