@@ -55,11 +55,11 @@ Utility → Output Setup → High Z → DONE.
 ![formula](./img/formula.png)
 
 Where:
-    - TMRx: timer counter register.
-    - Time: Period from "initial count" in TMRx to the moment when TMRx has an overflow (from 0xFF/0xFFFF to 0x00/0x0000).
-    - TimerMode: It may be 16 or 8 bits
-    - Tcy: Internal Instruction Cycle of 4/Fosc.
-    - Prescaler: Device for frequency divider.
+- TMRx: timer counter register.
+- Time: Period from "initial count" in TMRx to the moment when TMRx has an overflow (from 0xFF/0xFFFF to 0x00/0x0000).
+- TimerMode: It may be 16 or 8 bits
+- Tcy: Internal Instruction Cycle of 4/Fosc.
+- Prescaler: Device for frequency divider.
 
 ## Results
 
