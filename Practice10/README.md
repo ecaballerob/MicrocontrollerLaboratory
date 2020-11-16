@@ -69,7 +69,7 @@ shows the software C code version for the implementation.
 
 ### Time for roll over
 
-$$Time = (2^TimerMode TMRx)(Tcy)(Prescaler)$$
+![formula](https://render.githubusercontent.com/render/math?math=2^{TimerMode} TMRx * Tcy * Prescaler)
 
 Where:
     - TMRx: timer counter register.
